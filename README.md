@@ -1,1 +1,36 @@
 # sposner.github.io
+
+<!DOCTYPE html> 
+<html> 
+<center><body style="font-family:futura" class="center-block">
+
+<h1 style="font-family:futura"> samuel posner</h1> 
+
+
+<img src="../../Downloads/img_9920.jpg" alt="Self Portrait" width="300" height="400">
+
+<h4>______________________________________________</h4> 
+
+<h3 style="font-family:futura"> i am a student whose research spans the fields of urban geography, political economy, critical theory and media studies </h3> 
+
+<h3><a href="websitepage.html" title="~ CV ~"> CV </a></h3> 
+
+<h3><a href="https://www.yourworldoftext.com/~sposner/" title="guestbook"> guestbook </a></h3>
+
+<h4>______________________________________________</h4> 
+
+<h4> publications </h4> 
+
+<p> my book is available for purchase <a href="https://sposner.metalabel.com/record_rc9dx23avbb2zrevt?variantId=2"> here </a></p>
+
+<p> my essay in do not research is located <a href="https://donotresearch.net/posts/the-perils-of-decentralization-the-internet-as-protocol"> here </a></p> 
+
+<p> my substack is located <a href="https://samuelposner.substack.com"> here </a></p>
+
+<p><a href="mailto:sposner2002@gmail.com" title="email me"> email me </a></p>
+
+
+
+
+</body> 
+</html> 
