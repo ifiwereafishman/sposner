@@ -1,4 +1,3 @@
-# sposner.github.io
 
 <!DOCTYPE html> 
 <html> 
@@ -6,8 +5,7 @@
 
 <h1 style="font-family:futura"> samuel posner</h1> 
 
-
-<img >
+<img width="300" height="400" alt="IMG_9920" src="https://github.com/user-attachments/assets/e9ce2245-510c-49c6-9e1f-64ed5ed83e69" />
 
 <h4>______________________________________________</h4> 
 
