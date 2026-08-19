@@ -7,7 +7,7 @@
 <h1 style="font-family:futura"> samuel posner</h1> 
 
 
-<img src="../../Downloads/img_9920.jpg" alt="Self Portrait" width="300" height="400">
+<img >
 
 <h4>______________________________________________</h4> 
 
