@@ -29,13 +29,16 @@ font-family:futura;
 
 .image-container {
   position: relative;
-  display: inline-block;
+  display: flex;
+justify-content: center;
+align-items: center;
+height: 300px;
 }
 
 .image-container img {
   display: block;
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
 }
 
 .image-container .popup-text {
@@ -50,7 +53,7 @@ font-family:futura;
   font-family: futura;
   white-space: nowrap;
 
-opacity: 0;
+opacity: 50;
   transition: opacity 0.3s ease; 
   pointer-events: none; /* Prevents flickering */
 }
