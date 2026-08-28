@@ -15,6 +15,18 @@ text-decoration: underline;
 transition: all 0.3s ease;
  } 
 
+.vertical-stack {
+ display: flex;
+flex-direction: column;
+gap: 10px;
+text-align: center;
+justify-content: center; 
+align-items: center;
+min-height: 100vh;
+font-family:futura;
+}
+
+
 .image-container {
   position: relative;
   display: inline-block;
@@ -46,22 +58,14 @@ opacity: 0;
   opacity: 1;
 }
  
-.vertical-stack {
- display: flex;
-flex-direction: column;
-gap: 10px;
-text-align: center;
-justify-content: center; 
-align-items: center;
-min-height: 100vh;
-font-family:futura;
-}
+
             
 </style>
 
-<div class="image-container vertical-stack">
+<div class="vertical-stack image-container">
   <img src="Layout2.jpg" alt="Minnesota Pipeline Area of Effect">
   <div class="popup-text"> A map of the area of effect of potential oil spills (and their proximity to native reservations) in Minnesota</div>
+</div>
 
 <div class="vertical-stack"> 
 <p><a href= "projects.html" "title=back"> back </a></p>
